@@ -1,5 +1,5 @@
 # announcement-system
-Announcement system (Passenger Information System) for the people transport companies. This software is still inder construction.
+Announcement system (Passenger Information System) for the people transport companies. This software is still under construction.
 
 ## Dependences
 * Qt 5.12 (or higher)
